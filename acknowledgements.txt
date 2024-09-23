@@ -1,0 +1,18 @@
+
+
+## Acknowledgements
+
+I would like to acknowledge the following resources for making this project possible:
+
+- **Streamlit**: For providing the framework to create this web application.
+- **Plotly**: For enabling powerful data visualizations and interactive charts.
+- **Pandas**: For making data manipulation easy and effective.
+
+## Collaborations
+
+This project was created with contributions from the following individuals:
+
+- **[Muhammad Abdullah]** - Lead developer and designer
+- **[Muhammad Abdullah]** - Provided data and initial analysis
+
+If you'd like to collaborate on this project, feel free to submit a pull request or contact us at [abdullahzahid147@gmail.com].
